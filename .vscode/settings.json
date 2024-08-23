@@ -1,0 +1,5 @@
+{
+    "intelephense.environment.includePaths": [
+    "C:/xampp/htdocs/test/yii-1.1.24/framework"
+]
+}
